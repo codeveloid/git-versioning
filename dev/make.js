@@ -15,11 +15,11 @@ const User = attributes({
   }
 );
 
-/* The attributes "wraps" the Class, still providing access to its methods: */
+
 
 const user = new User({
   name: 'John Foo',
 });
 
-user.name; // 'John Foo'
-user.greet(); // 'Hello John Foo'
+user.name; 
+user.greet(); 
