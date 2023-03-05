@@ -1,1 +1,1 @@
-const nama = "Irpantod";
+const nama = "YNTKTS";
